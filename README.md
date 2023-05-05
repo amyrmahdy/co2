@@ -55,6 +55,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## **Additional Resources**
+
+- Kaggle Notebook: [Forecasting CO2 Levels using ARIMA Model](https://www.kaggle.com/code/amyrmahdy/forecasting-co2-levels-using-arima-model)
+
+- Medium Article: [Time Series Forecasting with ARIMA: Predicting Carbon Dioxide Levels](https://amyrmahdy.medium.com/time-series-forecasting-with-arima-predicting-carbon-dioxide-levels-91db8c323add)
+
+
 <br >
 <br >
 
