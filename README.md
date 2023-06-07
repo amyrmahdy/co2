@@ -65,5 +65,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 <br >
 <br >
 
-### Author: **amyrmahdy**
-### Date: **24 Jan 2023**
+Author: **amyrmahdy**
+
+Date: **24 Jan 2023**
